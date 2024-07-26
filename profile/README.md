@@ -1,5 +1,7 @@
 # Spunky Development
 
+![SDEV Banner](https://cdn.spunky.dev/sdev-banners/EN/discord.jpg)
+
 Welcome to the official GitHub repository of Spunky Development!
 
 ## About Us
